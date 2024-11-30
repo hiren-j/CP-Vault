@@ -15,7 +15,7 @@ I’ve always loved learning from documentation. I remember reading docs from **
 
 **💡 I guarantee you will find it helpful, and you’ll learn something new, like the cool log base 2 trick! 🚀 Try it out!** <br>
 
-🔗 Check out the PDF's above and start exploring! 📑👇 <br> 
+🔗 Check out the PDF's above and start exploring! 📑☝ <br> 
 
 **🎯🤝🏻 Follow For More ╰┈➤** [Hiren Joshi - LinkedIn](https://www.linkedin.com/in/hirenjoshi1630/) <br>
 
