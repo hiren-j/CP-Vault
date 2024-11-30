@@ -7,7 +7,7 @@ I’ve always loved learning from documentation. I remember reading docs from **
 **🔹 Why is this helpful?**
 
 - Step-by-step, from **intuition building with basics to everything**, covering everything from basic concepts to **BIT operations** in an easy and **diagrammatic way** with **examples 💡** <br>
-- Designed for **beginners**, but covers **everything** you need to know about **Fenwick Trees** – from the ground up to advanced techniques 💡 <br>
+- Designed for **beginners**, but covers **everything** you need to know about **Fenwick Tree** – from the ground up to advanced techniques 💡 <br>
 - Ideal for anyone looking to **revise** or **solidify** their knowledge 🔄 <br>
 - Multiple ways to create the **Binary Indexed Tree (Fenwick Tree) 🛠️** <br> 
 - Includes **diagrammatic explanations** to make everything **crystal clear 🎨** <br> 
