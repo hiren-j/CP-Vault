@@ -17,6 +17,6 @@ I’ve always loved learning from documentation. I remember reading docs from **
 
 🔗 Check out the PDF's above and start exploring! 📑👇 <br> 
 
-**🎯🤝🏻 Follow For More ╰┈➤ [Hiren Joshi - LinkedIn](https://www.linkedin.com/in/hirenjoshi1630/)** <br>
+**🎯🤝🏻 Follow For More ╰┈➤** [Hiren Joshi - LinkedIn](https://www.linkedin.com/in/hirenjoshi1630/) <br>
 
 #FenwickTree #BIT #BinaryIndexedTree #ADSA #DSA #CompetitiveProgramming #CP #DataStructures #Algorithms #Coding #ProblemSolving #Programming #Geek #Tech #Learning #Notes #Tutorial #HackerEarth #GeeksforGeeks #LogBase2 #TechLearning #TipsTricks #Tree
