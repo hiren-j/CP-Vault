@@ -1,4 +1,4 @@
-## **📚 Fenwick Tree Notes - From Beginner to Advanced! 🌱**
+## **📚 Fenwick Tree (BIT) Notes - From Beginner to Advanced! 🌱**
 
 I’ve never created notes for DSA, but today, as I opened my favorite notebook containing **notes on Fenwick Tree only**, I realized I had created detailed notes on it a year ago. I thought, why not share them with you all? 🚀 These notes are perfect for anyone new to **ADSA** or **Competitive Programming (CP)** and anyone who simply wants to **revise. 🧠✨**
 
