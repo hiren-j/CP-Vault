@@ -2,7 +2,7 @@
 
 I’ve never created notes for DSA, but today, as I opened my favorite notebook containing **notes on Fenwick Tree only**, I realized I had created detailed notes on it a year ago. I thought, why not share them with you all? 🚀 These notes are perfect for anyone new to **ADSA** or **Competitive Programming (CP)** and anyone who simply wants to **revise. 🧠✨**
 
-I’ve always loved learning from documentation. I remember reading docs from **HackerEarth** and **GeeksforGeeks** for Fenwick Tree, and created these notes by considering **each and every detail required** on a Fenwick Tree. 💡 <br> <br>
+I’ve always loved learning from documentation. I remember reading docs from **HackerEarth** and **GeeksforGeeks** for Fenwick Tree, and created these notes by considering **each and every detail required** on the Fenwick Tree. 💡 <br> <br>
 
 **🔹 Why is this helpful?**
 
