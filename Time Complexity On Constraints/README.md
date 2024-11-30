@@ -23,7 +23,7 @@ It's been 1 year and 4 months since I am doing competitive programming, and thro
 
 𝗙𝗶𝗻𝗮𝗹 𝗡𝗼𝘁𝗲: This table will be super helpful 95% of the time, but there’s still a small 5% chance something unexpected could happen. One thing I always say is: "𝗡𝗲𝘃𝗲𝗿 𝘂𝗻𝗱𝗲𝗿𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲 𝗰𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁𝘀!" ⚠️ Use this as a reliable guide, and always try to aim for a better approach for the problem. And remember, if you encounter something that doesn’t match your expectations, consider it part of that 5%—we’re all learning and adapting! 💪
 
-**🎯🤝🏻 Follow For More ╰┈➤ [Hiren Joshi - LinkedIn](https://www.linkedin.com/in/hirenjoshi1630/)**
+**🎯🤝🏻 Follow For More ╰┈➤** [Hiren Joshi - LinkedIn](https://www.linkedin.com/in/hirenjoshi1630/)
 
 #𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 #𝗧𝗶𝗺𝗲𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆 #𝗖𝗣𝗕𝗮𝘀𝗶𝗰𝘀 #𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴𝗧𝗶𝗽𝘀 #𝗟𝗲𝗮𝗿𝗻𝗖𝗣 #𝗖𝗼𝗱𝗲𝗦𝗺𝗮𝗿𝘁 #𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝗦𝗼𝗹𝘃𝗶𝗻𝗴 #𝗖𝗼𝗱𝗶𝗻𝗴𝗚𝘂𝗶𝗱𝗲 
 #𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲 #𝗖𝗼𝗱𝗲𝗳𝗼𝗿𝗰𝗲𝘀 #𝗔𝘁𝗖𝗼𝗱𝗲𝗿 #𝗖𝗣𝗝𝗼𝘂𝗿𝗻𝗲𝘆 #𝗗𝗦𝗔 #𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 #𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴𝗟𝗶𝗳𝗲 #𝗖𝗼𝗱𝗲𝗖𝗵𝗲𝗳 #𝗧𝗲𝗰𝗵𝗧𝗶𝗽𝘀 #𝗖𝗼𝗱𝗲𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 #𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴𝗙𝗼𝗿𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 #𝗖𝗼𝗻𝘁𝗲𝘀𝘁𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 #𝗖𝗣
