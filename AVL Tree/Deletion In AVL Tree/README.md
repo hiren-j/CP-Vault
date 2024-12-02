@@ -53,6 +53,7 @@ The time complexity of any operation depends on the **height** of the AVL tree.
 - Time complexities for key operations:
   - **Searching**: **O(Log₂(N))**
   - **Update**: **O(Log₂(N))**
+  - **Insert**: **O(Log₂(N))**
   - **Delete**: **O(Log₂(N))**
 
 ---
