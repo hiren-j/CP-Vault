@@ -10,7 +10,7 @@ The following cases of unbalancing occur based on the side of insertion:
 
 ### 1️⃣ **LL Case (Left-Left)**  
 - **Condition**: A node is inserted into the left subtree of the left child of the unbalanced node.  
-- **Fix**: Perform a **right rotation** with respect to the unbalanced node.  
+- **Fix**: Perform a **right rotation** with respect to the unbalanced node (root node / top node). 
 
 #### Example:
 ```
