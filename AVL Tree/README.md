@@ -5,9 +5,9 @@
 - It is a **self-balancing Binary Search Tree (BST)** that ensures operations like insertion, deletion, and search remain efficient.
 
 ## Why AVL Tree?
-- In a standard **BST**, the time complexity can become **O(n)** in the worst-case scenario (e.g., when the tree is skewed, like a linked list).  
-- This means operations such as **insertion**, **search**, and **deletion** take **O(n)** time in the worst case.  
-- An AVL Tree maintains a balanced structure, ensuring a time complexity of **O(log n)** for these operations.
+- In a standard **BST**, the time complexity can become **O(N)** in the worst-case scenario (e.g., when the tree is skewed, like a linked list).  
+- This means operations such as **insertion**, **search**, and **deletion** take **O(N)** time in the worst case.  
+- An AVL Tree maintains a balanced structure, ensuring a time complexity of **O(Log2(N))** for these operations.
 
 ## How does it maintain balance?
 - Each node in an AVL tree has a **balance factor**, calculated as:
