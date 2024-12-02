@@ -1,3 +1,9 @@
+#### 🔗 Prerequisites: 
+- Problem: [Insert Node Into A BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)  
+- Solution: [Don't Skip Approach 2, Because I'll Be Using The Same Code For AVL Tree Deletion](https://leetcode.com/problems/insert-into-a-binary-search-tree/solutions/6105646/three-solutions-brute-optimal-readable-cpp-code/)
+
+---
+
 ## 🌳 Cases of Unbalancing in AVL Tree
 
 The following cases of unbalancing occur based on the side of insertion:
