@@ -1,3 +1,15 @@
+class Node {
+public:
+	int data, height;
+	Node *left, *right;
+
+	Node(int x) {
+		data = x;
+		height = 1;
+		left = right = nullptr;
+	}
+};
+
 class AVLTreeInsertion {
     // Method to find the height of the given node - O(1) & O(1)
     int getHeight(Node* rootNode) {
