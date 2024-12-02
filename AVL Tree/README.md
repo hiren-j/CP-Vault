@@ -19,6 +19,8 @@
   Balance Factor = Height of Left Subtree - Height of Right Subtree
 - The tree is **balanced** if the balance factor of all the nodes is among **-1, 0, or 1**.
 
+---
+
 ## 🔄 Key Concept: Rotations  
 To maintain balance after an insertion or deletion, **rotations** are performed:  
 
