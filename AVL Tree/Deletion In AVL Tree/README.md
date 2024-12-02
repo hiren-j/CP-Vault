@@ -10,6 +10,5 @@ The time complexity of any operation depends on the **height** of the AVL tree.
   - **Delete**: **O(Log₂(N))**
 
 ### Specific Operation:
-- **getLeftMostNode()**:
-  - Takes **O(H)** time, where **H = Log₂(N)**.
-  - Overall time complexity: **O(Log₂(N))**
+- The **getLeftMostNode()** method, used in the **deletion code**, takes **O(H)** time, where **H = Log₂(N)**.
+- Overall time complexity: **O(Log₂(N))**
