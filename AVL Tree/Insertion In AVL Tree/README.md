@@ -1,4 +1,4 @@
-## 🌳 Cases of Unbalancing in AVL Trees
+## 🌳 Cases of Unbalancing in AVL Tree
 
 The following cases of unbalancing occur based on the side of insertion:
 
