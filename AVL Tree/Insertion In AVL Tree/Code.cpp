@@ -40,7 +40,7 @@ class AVLTree {
     }
 
 public:
-    // Method to insert a node in the AVL tree - O(LogN) & O(LogN) : Where N is the total number of nodes of the tree.
+    // Method to insert a node in the AVL tree - O(LogN) & O(LogN)
     Node* insertToAVL(Node* rootNode, int key) {
         // Edge case: If the tree is empty, then create a new node with value "key" and then return it
         if(!rootNode)
@@ -70,14 +70,14 @@ public:
         if(BF > 1 && rootNode->left->data > key) {
             return rightRotation(rootNode);
         }
+        // RR Case
+        else if(BF < -1 && rootNode->right->data < key) {
+            return leftRotation(rootNode);
+        }
         // LR Case
         else if(BF > 1 && rootNode->left->data < key) {
             rootNode->left = leftRotation(rootNode->left);
             return rightRotation(rootNode);
-        }
-        // RR Case
-        else if(BF < -1 && rootNode->right->data < key) {
-            return leftRotation(rootNode);
         }
         // RL Case
         else if(BF < -1 && rootNode->right->data > key) {
