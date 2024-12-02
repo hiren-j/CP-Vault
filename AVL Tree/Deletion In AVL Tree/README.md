@@ -8,7 +8,7 @@ The deletion process in an AVL Tree can lead to unbalancing when nodes are remov
 
 ### 1. **LL Case (Left-Left)**
 - **Condition**: 
-  - Balance factor of the current node (`BF > 1`).
+  - Balance factor of the current node (`BF > 1`). Current node is the unbalanced node.
   - Balance factor of the left child (`BF >= 0`).
 - **Fix**: Perform a **right rotation** with respect to the unbalanced node.
 
@@ -16,25 +16,25 @@ The deletion process in an AVL Tree can lead to unbalancing when nodes are remov
 
 ### 2. **RR Case (Right-Right)**
 - **Condition**: 
-  - Balance factor of the current node (`BF < -1`).
+  - Balance factor of the current node (`BF < -1`). Current node is the unbalanced node.
   - Balance factor of the right child (`BF <= 0`).
-- **Fix**: Perform a **left rotation** with respect to the unbalanced node.
+- **Fix**: Perform a **left rotation** with respect to the unbalanced node. 
 
 ---
 
 ### 3. **LR Case (Left-Right)**
 - **Condition**: 
-  - Balance factor of the current node (`BF > 1`).
+  - Balance factor of the current node (`BF > 1`). Current node is the unbalanced node.
   - Balance factor of the left child (`BF < 0`).
 - **Fix**:
   1. Perform a **left rotation** with respect to the left child of the unbalanced node.
-  2. Perform a **right rotation** with respect to the unbalanced node.
+  2. Perform a **right rotation** with respect to the unbalanced node. 
 
 ---
 
 ### 4. **RL Case (Right-Left)**
 - **Condition**: 
-  - Balance factor of the current node (`BF < -1`).
+  - Balance factor of the current node (`BF < -1`), Current node is the unbalanced node.
   - Balance factor of the right child (`BF > 0`).
 - **Fix**:
   1. Perform a **right rotation** with respect to the right child of the unbalanced node.
