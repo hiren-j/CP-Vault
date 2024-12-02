@@ -74,9 +74,20 @@ Before Rotation                           1. After Right Rotation               
 
 ***
 
-## 🔍 Determining the Case of Unbalancing
+## 🔍 Determining the Unbalancing Case Programmatically (Implementation Part)
 
-To identify which case of unbalancing has occurred for any node:
+As you've learned the different unbalancing cases (LL, RR, LR, RL) with diagrams above, let's see how you would determine the same for the **code part**.
+
+### Steps to Determine the Unbalancing Case Programmatically:
+
+1. **Calculate the Balance Factor**:
+   - First, we calculate the balance factor of the node, which is the difference between the heights of the left and right subtrees:
+     ```cpp
+     int balanceFactor = height(node->left) - height(node->right);
+     ```
+
+2. **Check for Unbalancing**:
+   - If the balance factor of a node is greater than 1 or less than -1, it indicates the node is unbalanced, and we need to perform rotation based on the case.
 
 ### 1. **Balance Factor > 1**
 - The node is unbalanced from the **left side**.
