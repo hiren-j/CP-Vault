@@ -17,7 +17,7 @@
 - Each node in an AVL tree has a **balance factor**, calculated as:  
   ```text
   Balance Factor = Height of Left Subtree - Height of Right Subtree
-- The tree is **balanced** if the balance factor of all the nodes is **-1, 0, or 1**.
+- The tree is **balanced** if the balance factor of all the nodes is in the range **[-1, 1]**. More clearly **-1, 0, or 1**.
 
 ---
 
