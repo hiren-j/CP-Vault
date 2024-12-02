@@ -34,7 +34,7 @@ The deletion process in an AVL Tree can lead to unbalancing when nodes are remov
 
 ### 4. **RL Case (Right-Left)**
 - **Condition**: 
-  - Balance factor of the current node (`BF < -1`), Current node is the unbalanced node.
+  - Balance factor of the current node (`BF < -1`). Current node is the unbalanced node.
   - Balance factor of the right child (`BF > 0`).
 - **Fix**:
   1. Perform a **right rotation** with respect to the right child of the unbalanced node.
