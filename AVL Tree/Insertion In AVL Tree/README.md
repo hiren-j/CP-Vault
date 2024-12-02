@@ -1,4 +1,4 @@
-## Cases of Unbalancing in AVL Trees
+## 🌳 Cases of Unbalancing in AVL Trees
 
 The following cases of unbalancing occur based on the side of insertion:
 
@@ -16,9 +16,9 @@ The following cases of unbalancing occur based on the side of insertion:
 1. Perform **right rotation** with respect to the middle node of the root node (top node).
 2. Perform **left rotation** with respect to the root node (top node).
 
----
+***
 
-## Determining the Case of Unbalancing
+## 🔍 Determining the Case of Unbalancing
 
 To identify which case of unbalancing has occurred for any node:
 
@@ -34,9 +34,9 @@ To identify which case of unbalancing has occurred for any node:
   1. **Key > rootNode->right->data** → **RR Case**
   2. **Key < rootNode->right->data** → **RL Case**
 
----
+***
 
-## Time Complexity of AVL Tree Operations
+## ⏱️ Time Complexity of AVL Tree Operations
 
 ### Worst-Case Scenario:
 - The **maximum depth** of an AVL tree is **Log₂(N)**.
