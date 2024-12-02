@@ -87,7 +87,7 @@ As you've learned the different unbalancing cases (LL, RR, LR, RL) with diagrams
      ```
 
 2. **Check for Unbalancing**:
-   - If the balance factor of a node is greater than 1 or less than -1, it indicates the node is unbalanced, and we need to perform rotation based on the case.
+   - If the balance factor of a node is greater than 1 or less than -1, it indicates the node is unbalanced, and we need to perform rotations based on the specific case.
 
 ### 1. **Balance Factor > 1**
 - The node is unbalanced from the **left side**.
