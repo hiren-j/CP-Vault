@@ -1,13 +1,13 @@
 class Node {
 public:
-	int data, height;
-	Node *left, *right;
+    int data, height;
+    Node *left, *right;
 
-	Node(int x) {
-		data = x;
-		height = 1;
-		left = right = nullptr;
-	}
+    Node(int x) {
+	data = x;
+	height = 1;
+	left = right = nullptr;
+    }
 };
 
 class AVLTreeInsertion {
