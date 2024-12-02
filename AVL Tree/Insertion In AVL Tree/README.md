@@ -8,8 +8,20 @@
 
 The following cases of unbalancing occur based on the side of insertion:
 
-### 1. LL Case (Left-Left)
-- Perform **right rotation** with respect to the root node (top node).
+### 1️⃣ **LL Case (Left-Left)**  
+- **Condition**: A node is inserted into the left subtree of the left child of the unbalanced node.  
+- **Fix**: Perform a **right rotation** with respect to the unbalanced node.  
+
+#### Example:
+```
+Before Rotation                                After Right Rotation
+
+     30                                                20
+    /                                                 /  \
+  20                                                10    30
+ /
+10
+```
 
 ### 2. RR Case (Right-Right)
 - Perform **left rotation** with respect to the root node (top node).
