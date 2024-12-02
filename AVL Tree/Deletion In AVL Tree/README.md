@@ -1,5 +1,6 @@
-#### 🔗 Prerequisite Problem: [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)  
-#### 💡 Solution: [Don't Skip Approach 3, Because I'll Be Using The Same Code For AVL Tree Deletion](https://leetcode.com/problems/delete-node-in-a-bst/solutions/4952667/three-solutions-brute-optimal-readable-cpp-code/)
+#### 🔗 Prerequisites: 
+- Problem: [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)  
+- Solution: [Don't Skip Approach 3, Because I'll Be Using The Same Code For AVL Tree Deletion](https://leetcode.com/problems/delete-node-in-a-bst/solutions/4952667/three-solutions-brute-optimal-readable-cpp-code/)
 
 ---
 
