@@ -78,20 +78,20 @@ public:
         int BF = getHeight(rootNode->left) - getHeight(rootNode->right);
 
         // Cases of unbalancing:
-        // LL Case
+        // LL 
         if(BF > 1 && rootNode->left->data > key) {
             return rightRotation(rootNode);
         }
-        // RR Case
+        // RR 
         else if(BF < -1 && rootNode->right->data < key) {
             return leftRotation(rootNode);
         }
-        // LR Case
+        // LR 
         else if(BF > 1 && rootNode->left->data < key) {
             rootNode->left = leftRotation(rootNode->left);
             return rightRotation(rootNode);
         }
-        // RL Case
+        // RL 
         else if(BF < -1 && rootNode->right->data > key) {
             rootNode->right = rightRotation(rootNode->right);
             return leftRotation(rootNode);
