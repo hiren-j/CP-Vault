@@ -1,4 +1,4 @@
-class AVLTree {
+class AVLTreeInsertion {
     // Method to find the height of the given node - O(1) & O(1)
     int getHeight(Node* rootNode) {
         if(!rootNode)
