@@ -55,9 +55,22 @@ Before Rotation                           1. After Left Rotation                
    20                                         10
 ```
 
-### 4. RL Case (Right-Left)
-1. Perform **right rotation** with respect to the middle node of the root node (top node).
-2. Perform **left rotation** with respect to the root node (top node).
+### 4️⃣ **RL Case (Right-Left)**  
+- **Condition**: A node is inserted into the left side of the right child of the unbalanced node.  
+- **Fix**:  
+  1. Perform a **right rotation** with respect to the right child of the unbalanced node.  
+  2. Perform a **left rotation** with respect to the unbalanced node (root node / top node).  
+
+#### Example:
+```
+Before Rotation                           1. After Right Rotation                           2. After Left Rotation
+
+   30                                              30                                                 20
+  /                                               /                                                  /   \
+10                                               20                                                10     30
+  \                                             /
+   20                                         10
+```
 
 ***
 
