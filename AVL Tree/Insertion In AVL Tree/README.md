@@ -24,13 +24,13 @@ To identify which case of unbalancing has occurred for any node:
 
 ### 1. **Balance Factor > 1**
 - The node is unbalanced from the **left side**.
-- Check the side of insertion for the left child:
+- Check the side of insertion from the left child:
   1. **Key < rootNode->left->data** → **LL Case**
   2. **Key > rootNode->left->data** → **LR Case**
 
 ### 2. **Balance Factor < -1**
 - The node is unbalanced from the **right side**.
-- Check the side of insertion for the right child:
+- Check the side of insertion from the right child:
   1. **Key > rootNode->right->data** → **RR Case**
   2. **Key < rootNode->right->data** → **RL Case**
 
