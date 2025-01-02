@@ -11,8 +11,8 @@ It's been 1 year and 4 months since I am doing competitive programming, and thro
       N <= 10^2                  O(N^3)                                Cubic
       N <= 10^3                  O(N^2) always, O(N^3) not always      Quadratic, Cubic
       N <= 10^4                  O(N^2)                                Quadratic
-      N <= 5 * 10^4              O(NLogN)                              Linear * Logarithmic    
-      N <= 10^5                  O(NLogN)                              Linear * Logarithmic
+      N <= 5 * 10^4              O(NLogN), O(N*sqrt(N))                Linear * Logarithmic, Linear * SquareRoot    
+      N <= 10^5                  O(NLogN), O(N*sqrt(N))                Linear * Logarithmic, Linear * SquareRoot
       N <= 10^6                  O(NLogN)                              Linear * Logarithmic
       N <= 10^7                  O(N)                                  Linear
       N <= 10^8                  O(N)                                  Linear
