@@ -19,7 +19,7 @@ It's been 1 year and 4 months since I am doing competitive programming, and thro
       N <= 10^9                  O(sqrt(N))                            Square Root
       N >= 10^9                  O(LogN) or O(1)                       Logarithmic or Constant 
 	
-	𝗘𝘅𝗮𝗺𝗽𝗹𝗲: Suppose if the minimum acceptable time is O(N^3) then O(N^2), O(NLogN), O(N), O(LogN), O(1) will absolutely work out. So kindly refer to the table from top to bottom for better understanding. 📊
+	𝗘𝘅𝗮𝗺𝗽𝗹𝗲: Suppose if the minimum acceptable time is O(N^3) then O(N^2), O(N*sqrtN), O(NLogN), O(N), sqrt(N), O(LogN), O(1) will absolutely work out. So kindly refer to the table from top to bottom for better understanding. 📊
 
 𝗙𝗶𝗻𝗮𝗹 𝗡𝗼𝘁𝗲: This table will be super helpful 95% of the time, but there’s still a small 5% chance something unexpected could happen. One thing I always say is: "𝗡𝗲𝘃𝗲𝗿 𝘂𝗻𝗱𝗲𝗿𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲 𝗰𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁𝘀!" ⚠️ Use this as a reliable guide, and always try to aim for a better approach for the problem. And remember, if you encounter something that doesn’t match your expectations, consider it part of that 5%—we’re all learning and adapting! 💪
 
