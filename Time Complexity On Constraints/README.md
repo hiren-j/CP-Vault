@@ -5,20 +5,21 @@ It's been 1 year and 4 months since I am doing competitive programming, and thro
 
 𝗣𝗼𝘀𝘁 𝗖𝗼𝗻𝘁𝗲𝘅𝘁: In this post, I’ll be sharing a table that will help beginners identify the time complexities based on constraints, making it easier for you to know what’s acceptable in competitive programming. Also this post is helpful for those who aren't beginner but wanted to get into CP but struggle to create a solution requiring acceptance based on the programming environment. 💻 I hope my table will help you a lot! 🚀
         
-    Constraints              Minimum Acceptable Time Required       Mathematical Terms
-      N <= 15                    O(N!)                                 Factorial
-      N <= 30                    O(X^N), Where X is a constant         Exponential  
-      N <= 10^2                  O(N^3)                                Cubic
-      N <= 10^3                  O(N^2) always, O(N^3) not always      Quadratic, Cubic
-      N <= 10^4                  O(N^2)                                Quadratic
-      N <= 5 * 10^4              O(NLogN), O(N*sqrt(N))                Linear * Logarithmic, Linear * SquareRoot    
-      N <= 10^5                  O(NLogN), O(N*sqrt(N))                Linear * Logarithmic, Linear * SquareRoot
-      N <= 10^6                  O(NLogN)                              Linear * Logarithmic
-      N <= 10^7                  O(N)                                  Linear
-      N <= 10^8                  O(N)                                  Linear
-      N <= 10^9                  O(sqrt(N))                            Square Root
-      N >= 10^9                  O(LogN) or O(1)                       Logarithmic or Constant 
-	
+	Constraints              Minimum Acceptable Time Required       Mathematical Terms
+  	  N <= 15                    O(N!)                                 Factorial
+  	  N <= 30                    O(X^N), Where X is a constant         Exponential  
+  	  N <= 10^2                  O(N^3)                                Cubic
+  	  N <= 10^3                  O(N^2) always, O(N^3) not always      Quadratic, Cubic
+  	  N <= 10^4, N*M <= 10^5     O(N^2) always                         Quadratic
+  	  N <= 4 * 10^4              O(N^2) not always                     Quadratic
+  	  N <= 5 * 10^4              O(NLogN), O(N*sqrt(N))                Linear * Logarithmic, Linear * SquareRoot    
+  	  N <= 10^5                  O(NLogN), O(N*sqrt(N))                Linear * Logarithmic, Linear * SquareRoot
+  	  N <= 10^6                  O(NLogN)                              Linear * Logarithmic
+  	  N <= 10^7                  O(N)                                  Linear
+  	  N <= 10^8                  O(N)                                  Linear
+  	  N <= 10^9                  O(sqrt(N))                            Square Root
+  	  N >= 10^9                  O(LogN) or O(1)                       Logarithmic or Constant 
+
 	𝗘𝘅𝗮𝗺𝗽𝗹𝗲: Suppose if the minimum acceptable time is O(N^3) then O(N^2), O(N*sqrtN), O(NLogN), O(N), sqrt(N), O(LogN), O(1) will absolutely work out. So kindly refer to the table from top to bottom for better understanding. 📊
 
 𝗙𝗶𝗻𝗮𝗹 𝗡𝗼𝘁𝗲: This table will be super helpful 95% of the time, but there’s still a small 5% chance something unexpected could happen. One thing I always say is: "𝗡𝗲𝘃𝗲𝗿 𝘂𝗻𝗱𝗲𝗿𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲 𝗰𝗼𝗻𝘀𝘁𝗿𝗮𝗶𝗻𝘁𝘀!" ⚠️ Use this as a reliable guide, and always try to aim for a better approach for the problem. And remember, if you encounter something that doesn’t match your expectations, consider it part of that 5%—we’re all learning and adapting! 💪
